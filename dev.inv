@@ -1,2 +1,2 @@
 [webservers]
-10.128.0.4 ansible_user=aniruddha_nd
+10.128.0.4 ansible_user=ubuntu
